@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="12a18d3e-ac6a-456e-86fe-072335e2a0e8" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="6" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.3872136643890207" />
+      <entry key="MS500" value="3.3423886806821423" />
+      <entry key="S2" value="6.379331038482936" />
+      <entry key="S5" value="8.84774006023574" />
+      <entry key="S10" value="13.03543901007375" />
+      <entry key="S30" value="21.459693096458064" />
+      <entry key="S60" value="25.238198608453146" />
+      <entry key="M2" value="28.96896208213611" />
+      <entry key="M5" value="42.58412923759414" />
+      <entry key="M10" value="57.831702365742906" />
+      <entry key="M15" value="65.85055931444734" />
+      <entry key="M30" value="76.03988508589063" />
+      <entry key="H1" value="82.1300647443709" />
+      <entry key="H2" value="85.4615222299716" />
+      <entry key="H4" value="87.20408749708506" />
+      <entry key="D1" value="88.69690701356623" />
+      <entry key="W1" value="88.95660765075655" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.2939277622750966" />
+      <entry key="MS500" value="3.281633411826152" />
+      <entry key="S2" value="6.3413529118654814" />
+      <entry key="S5" value="8.8267905667098" />
+      <entry key="S10" value="13.021060124950077" />
+      <entry key="S30" value="21.45235062071303" />
+      <entry key="S60" value="25.233952217431387" />
+      <entry key="M2" value="28.966505971458396" />
+      <entry key="M5" value="42.58256438406279" />
+      <entry key="M10" value="57.830583982751996" />
+      <entry key="M15" value="65.8496952123591" />
+      <entry key="M30" value="76.03937753657287" />
+      <entry key="H1" value="82.12978836648804" />
+      <entry key="H2" value="85.46137785354459" />
+      <entry key="H4" value="87.20401368997413" />
+      <entry key="D1" value="88.6968944811772" />
+      <entry key="W1" value="88.95660585466851" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3HffYqVeJ71xmin95lk20n3p6Ec" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Isuru Dulanjaya/Desktop/it3130-git-basics-lab",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-63390994e64e-intellij.indexing.shared.core-IU-262.8665.337" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.8665.337" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12a18d3e-ac6a-456e-86fe-072335e2a0e8" name="Changes" comment="" />
+      <created>1786264093349</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1786264093349</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
